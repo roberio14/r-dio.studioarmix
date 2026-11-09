@@ -1,0 +1,6 @@
+{
+  "name": "Studio Armix",
+  "description": "Aplicativo oficial de streaming de rádio com player ao vivo, pedidos musicais, promoções e campo de anúncios dos parceiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
